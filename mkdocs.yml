@@ -1,1 +1,20 @@
-site_name: My Docs
+site_name: Tokken Hat
+nav:
+  - Home: index.html
+theme: readthedocs
+
+site_description: 
+site_author: Mencey Santana Garay y Junior Alejandro Osuna Antunez
+repo_url: https://github.com/menceytupadre/Tokken-Hat.git
+repo_name: menceytupadre/Tokken-Hat
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+    primary: indigo
+    accent: blue
+    toggle:
+      icon: material/brightness-7
+      name: Cambiar a modo oscuro
