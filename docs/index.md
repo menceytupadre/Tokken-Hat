@@ -6,8 +6,10 @@ Documentación técnica elaborada para explicar cómo las empresas modernas dise
 
 * **Uso empresarial de HTML y CSS:** Cómo las compañías pasan de webs estáticsa rígidas a sitios semánticos, accesibles y adaptables a móviles. También se llama *Responsive Design*.
 * **Ejemplos de código listos para producción:** 
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* **Resolución de incidencias técnicas:** Guía práctica basada en problemas reales al desplegar entornos Python, MkDocs y Git en Windows.
+
+!!! Navegación rápida
+    Usa las pestañas superiores para cambiar de tema y el **índice lateral** para ver el progreso del documento. Encontrarás que hay un solo documento, aparte del que explicamos los errores, porque lo hemos planificado de forma que cada parte del documento cumpla la misma función que distintas páginas.
 
 ## Project layout
 
